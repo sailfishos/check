@@ -1,0 +1,20 @@
+* Tue Feb 16 2010 Anas Nashif <anas.nashif@intel.com> - 0.9.8
+- Use spectacle
+
+* Wed Jan 27 2010 Peter J Zhu <peter.j.zhu@intel.com> - 0.9.8
+- Update to 0.9.8
+- Remove changelog and news from file lists
+
+* Mon May 18 2009 Zhang, Qiang Z<qiang.z.zhang@intel.com> 0.9.6
+- fixed bug #2071: "Installed (but unpackaged) file(s) found"
+  There's a detail analyse in the comments of this bug: 
+  https://bugzilla.moblin.org/show_bug.cgi?id=2071#add_comment
+
+* Fri Feb 13 2009 Anas Nashif <anas.nashif@intel.com> 0.9.6
+- Update to 0.9.6
+
+* Tue Dec 16 2008 Arjan van de Ven <arjan@linux.intel.com> 0.9.5
+- Create standardized spec file
+
+* Sun Sep 28 2008 Anas Nashif <anas.nashif@intel.com> 0.9.5
+- disable documentation
